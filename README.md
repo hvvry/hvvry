@@ -37,6 +37,8 @@ My background with 5+ years in IT and cybersecurity has led me to develop a pass
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-GCIH-78C7C7?&style=for-the-badge&logo=GIAC&logoColor=white" />
 </div>
+
 ## Projects
+
 - DNS Server and Domain Controller with Windows Server 2019
 - Kali Linux Reverse Shell with Splunk Ingestion and Sysmon Telemetry
