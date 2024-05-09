@@ -7,13 +7,6 @@ I am a cybersecurity professional with a deep interest in all things tech and a 
 
 My background with 5+ years in IT and cybersecurity has led me to develop a passion for the cybersecurity field, and I am eager to help companies defend against cyber attacks.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-
 ## Tools
 
 ### Network
